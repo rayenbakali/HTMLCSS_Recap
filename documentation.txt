@@ -32,3 +32,11 @@ static.
 
 usually when we give 40% or 25% to anything like that , they dont align next to each other but one under the other 
 theyy jump line so we gotta do white-space : nowrap 
+
+
+Btw guys , Media Queries Tell the browser how to style an element at particular viewport 
+dimensions
+View port meta tag : Tells the browser what width the viewport should banner
+Responsive images : Only load smaller iamges for mobile devices
+
+Should always do mobile first approach
